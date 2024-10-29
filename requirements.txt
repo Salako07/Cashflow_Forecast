@@ -1,0 +1,7 @@
+fastapi==0.88.0       # Web framework for building APIs
+uvicorn==0.22.0       # ASGI server to run FastAPI applications
+pandas==1.5.3         # Data manipulation library
+SQLAlchemy==1.4.46    # Database toolkit for Python
+scikit-learn==1.2.2   # ML models and utilities
+joblib==1.2.0         # Model saving and loading
+psycopg2-binary==2.9.6  # PostgreSQL adapter for Python (only if using PostgreSQL)
